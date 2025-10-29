@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.f{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+.fn{
+    display: flex;
+    flex-direction: row;
+}
+.img-fn{
+    width: 500px;
+}
+.fi{
+    display: flex;
+    flex-direction: row;
+}
+.img-fi{
+    width: 500px;
+    
+}
+p{
+    margin-left: 20px;
+    align-content: justify;
+    font-size: 25px;
+}
