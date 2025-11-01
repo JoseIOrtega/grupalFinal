@@ -92,7 +92,7 @@ main{
 }
 p{
     margin-left: 20px;
-    align-content: justify;
+    text-align: justify;
     font-size: 25px;
 }
 footer {
